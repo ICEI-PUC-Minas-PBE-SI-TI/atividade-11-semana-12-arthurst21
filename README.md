@@ -4,12 +4,11 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Arthur dos Santos Teixeira
+- Matrícula: 906898
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+<<![Alt text](image.png)>>
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+<<![Alt text](image-1.png)>>
